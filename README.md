@@ -4,7 +4,11 @@
 Язык выбирается автоматически по языку системы.
 Если вы хотите использовать язык, отличный от языка системы, запустите программу с ключом -ru или -ua или -en
 
-![Иллюстрация к проекту](https://github.com/alex-kiev/COMstat/blob/main/1.png)     ![Иллюстрация к проекту](https://github.com/alex-kiev/COMstat/blob/main/3.png)
+![Иллюстрация к проекту](https://github.com/alex-kiev/COMstat/blob/main/2.png)
+
+![Иллюстрация к проекту](https://github.com/alex-kiev/COMstat/blob/main/3.png)
+
+![Иллюстрация к проекту](https://github.com/alex-kiev/COMstat/blob/main/1.png)
 
 # COMstat
 The program runs in the tray and shows available COM ports in the system.
