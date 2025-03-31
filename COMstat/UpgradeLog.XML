@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="COMstat">
+</Property><Property Name="Solution File" Value="C:\Users\Admin\Documents\Visual Studio 2010\Projects\My Project\COMstat\COMstat\COMstat.sln">
+</Property><Property Name="Date" Value="воскресенье, 16 марта 2025 г.">
+</Property><Property Name="Time" Value="11:51">
+</Property></Properties><Event ErrorLevel="0" Project="COMstat" Source="COMstat.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="COMstat" Source="COMstat.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="COMstat.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="COMstat.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="COMstat" Source="COMstat.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
